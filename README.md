@@ -1,3 +1,3 @@
 ### vertical whitespace
 
-<img src="dhttps://github.com/lorencarvalho/lorencarvalho/raw/master/free.jpg" alt="tim" width="50%" height="50%"/>
+<img src="https://github.com/lorencarvalho/lorencarvalho/raw/master/free.jpg" alt="tim" width="50%" height="50%"/>
